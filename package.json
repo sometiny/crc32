@@ -14,6 +14,9 @@
     "crc32",
     "javascript"
   ],
+  "dependencies": {
+    "cook-code-jazor-encoding": "^1.0.0"
+  },
   "author": "anlige",
   "license": "ISC",
   "bugs": {
