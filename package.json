@@ -1,0 +1,23 @@
+{
+  "name": "crc32",
+  "version": "1.0.0",
+  "description": "crc32 for javascript",
+  "main": "crc32.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cook-code-jazor/crc32.git"
+  },
+  "keywords": [
+    "crc32",
+    "javascript"
+  ],
+  "author": "anlige",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cook-code-jazor/crc32/issues"
+  },
+  "homepage": "https://github.com/cook-code-jazor/crc32#readme"
+}
