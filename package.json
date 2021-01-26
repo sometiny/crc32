@@ -1,5 +1,5 @@
 {
-  "name": "@cook-code-jazor/crc32",
+  "name": "cook-code-jazor-crc32",
   "version": "1.0.0",
   "description": "crc32 for javascript",
   "main": "crc32.js",
